@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **S.Tamilselvan**
+# 👋 Hello, I'm **K.Pugazhmani**
 
 <div align="center">
   
@@ -453,7 +453,7 @@ gantt
 
 <div align="center">
 
-### 🎨 **Tamilselvan Footer**
+### 🎨 **Pugazhmani Footer**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
