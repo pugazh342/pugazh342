@@ -465,6 +465,6 @@ gantt
 
 </div>
 <dev align="center">
-<img alt="github-snake" src="https://github.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/blob/main/svg/github-snake-dark.svg" />
+<img alt="github-snake" src="image/pugazhmani.jpg" />
 </dev>
 
