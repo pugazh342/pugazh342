@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Ethical+Hacker+%7C+Cybersecurity+Expert;💻+Full+Stack+Developer;🚀+Technology+Creator;🔍+Bug+Hunter+%26+Security+Researcher" alt="Typing SVG" />
 
   <!-- Profile Views Counter -->
-  <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
+  <img src="images/pugazhmani.png" alt="Profile Views" />
 </div>
 
 </p>
@@ -29,7 +29,7 @@
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-S-Cyber-Security&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pugazh342&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-S-Cyber-Security&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
 
   
@@ -399,19 +399,19 @@ gantt
 
 ### 📬 **Get In Touch**
 
-<a href="mailto:tamilselvan637986@gmail.com">
+<a href="mailto:kpugazhmani21@gmail.com">
   <img src="https://img.shields.io/badge/Email-tamilselvan637986@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="tel:+916379869678">
+<a href="tel:+916374344424">
   <img src="https://img.shields.io/badge/Phone-+91_6379869678-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://tamilselvan-portfolio-s.web.app/">
+<a href="https://pugazhmani-portfolio.web.app/">
   <img src="https://img.shields.io/badge/Portfolio-Live_Website-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/tamilselvan-s">
+<a href="https://www.linkedin.com/in/k-pugazhmani-495298342/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -434,15 +434,15 @@ gantt
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tamilselvan-S-Cyber-Security.Tamilselvan-S-Cyber-Security&left_color=gray&right_color=blue&left_text=Profile%20Visitors" />
 
   <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/Tamilselvan-S-Cyber-Security?label=GitHub%20Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/pugazh342?label=GitHub%20Followers&style=social" />
 
   <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/Tamilselvan-S-Cyber-Security?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
+  <img src="https://img.shields.io/github/stars/pugazh342?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
 
   <br><br>
 
   <!-- Touch to Navigate Link -->
-  <a href="https://tamilselvan-portfolio-s.web.app" target="_blank" style="text-decoration:none;">
+  <a href="https://pugazhmani-portfolio.web.app/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/🔗%20Touch%20to%20Navigate-Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Navigate Button" />
   </a>
 
