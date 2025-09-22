@@ -1,3 +1,8 @@
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9A7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pugazhmani+%F0%9F%91%8B;Ethical-hacker+Cybersecurity+Expert+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F" />
+</p>
+
 # 👋 Hey there, I'm Pugazhmani!  
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Welcome to my GitHub profile!  
